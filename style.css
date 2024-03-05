@@ -1,0 +1,33 @@
+
+header {
+    width: 300px;
+    float: left;
+    position: fixed;
+    border-style: solid;
+    border-color:aliceblue;
+    padding: 30px;
+    margin-top:0px;
+    border-radius: 30px;
+    background-color:cornsilk ;
+    
+    
+}
+section{
+    width:650px;
+    float:right;
+    background-color:floralwhite ;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 20px;
+   
+    padding:30px;
+}
+img{
+   
+    
+}
+a {
+    color: darkred;
+    text-decoration: none;
+   
+  }
